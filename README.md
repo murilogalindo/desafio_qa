@@ -1,7 +1,8 @@
 # desafio_qa
 Desafio QA
 
-## NÃO EXECUTEI A CRIAÇÂO DO CADASTRO E BUSCAS POR MOTO G6 (a página tem CAPTCHA)
+# CÓDIGO SÓ FOI EXECUTADO ATÉ OS DADOS INVÁLIDOS. 
+# DA PARTE DE CRIAÇÃO DO NOVO CADASTRO E BUSCA POR MOTO G6 SÓ FORAM CAPTURADOS OS ELEMENTOS (a página tem CAPTCHA)
 
 Configurando e rodando o projeto
 
@@ -26,14 +27,15 @@ Projeto iciado para estudos
 
 Dificuldade: fácil
 
-Tecnologias escolhidas:
+## Tecnologias escolhidas:
 
 Linguagem Java
 Framework de testes automatizados: Selenium WebDriver
 Framework de testes automatizados: NUnit *
 Padrão de escrita de código de testes: PageObjects *
 
-Features:
+## Resumo:
+
 Encontrar path relativo de driver
 
 Básico de WebDriver
@@ -46,23 +48,23 @@ Validar resultados de teste
 
 Estrutura do Projeto
 
-Classe Util:
+## Classe Util:
 
 incluir métodos que serão usados em todo o projeto, como geradaor de CPF
 
-Classe Base:
+## Classe Base:
 
 Criar pasta e incluir chromedriver (driver do navegador chrome)
 Contém o WebDriver e o controle do browser
 
-Classe Pages:
+## Classe Pages:
 
 Fazer antes de criar os testes para mapear os elementos da tela que será efetuado ações
 Recomendo utilizar o navegador Mozilla Firefox e usar a extensão e Firebug para ajudar a mapear
 Criar classe para cada página existente no sistema
 Mapeie cada elemento: ajuda na hora da manutenção e fica mais legível
 
-Classe RunTestSuite
+## Classe RunTestSuite
 
 Classe que representa uma suíte de testes que irão ser executados
 
