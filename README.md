@@ -57,7 +57,7 @@ incluir métodos que serão usados em todo o projeto, como geradaor de CPF
 Criar pasta e incluir chromedriver (driver do navegador chrome)
 Contém o WebDriver e o controle do browser
 
-## Classe Pages:
+## Classe Page:
 
 Fazer antes de criar os testes para mapear os elementos da tela que será efetuado ações
 Recomendo utilizar o navegador Mozilla Firefox e usar a extensão e Firebug para ajudar a mapear
