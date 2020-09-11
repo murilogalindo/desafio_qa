@@ -1,6 +1,7 @@
 # desafio_qa
 Desafio QA
 
+## NÃO EXECUTEI A CRIAÇÂO DO CADASTRO E BUSCAS POR MOTO G6 (a página tem CAPTCHA)
 
 Configurando e rodando o projeto
 
